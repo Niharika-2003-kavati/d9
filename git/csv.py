@@ -6,3 +6,4 @@ import seaborn as sns
 df = pd.read_csv("studentperformance.csv")
 
 print(df.head())
+print("welcome")
